@@ -13,4 +13,8 @@ I'm an undergraduate student and I wanna be a FE developer.
     <img src="https://img.shields.io/badge/Python-1E3F5A?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
+<br>
+<br>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminsang&show_icons=true&theme=swift)
