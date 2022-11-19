@@ -15,4 +15,6 @@ I'm an undergraduate student and I wanna be a FE developer.
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminsang&show_icons=true&theme=swift)
+<p align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminsang&show_icons=true&theme=swift)
+</p>
