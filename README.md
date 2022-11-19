@@ -5,8 +5,6 @@ I'm an undergraduate student and I wanna be a FE developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminsang&show_icons=true&theme=swift)
 
-<br>
-
 # Skills
 <hr>
 <p>
